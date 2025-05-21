@@ -6,7 +6,8 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
 
 ## Skills
 # Technical Skills
-Programming Language: Javascript, SQL
+Programming Language: Javascript, SQL 
+
 Tools: Excel, Git
 
 # Soft Skills
@@ -26,9 +27,9 @@ German(A2)
 
 
 ## Experience
- Freelance Proofreader @Upwork(Online)
+ Freelance Proofreader @Upwork, Online
  
- Map Analyst @Peroptyx(Online)
+ Map Analyst @Peroptyx, Online
 
  ## Certification
  Data Science and Analytics
