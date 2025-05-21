@@ -19,6 +19,7 @@ Self-Motivation and Discipline
 Problem Solving
 
 
+
 ### Languages
 English(B2)
 
