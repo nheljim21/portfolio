@@ -1,0 +1,170 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "ff29582b",
+   "metadata": {},
+   "source": [
+    "# HR Attrition Analysis and Prediction (Beginner Friendly)\n",
+    "\n",
+    "This project explores and predicts employee attrition using the IBM HR Analytics dataset."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "cc8dad5d",
+   "metadata": {},
+   "source": [
+    "## 🔹 Step 1: Load the Dataset"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "33f548ff",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "\n",
+    "# Load the dataset\n",
+    "df = pd.read_csv('WA_Fn-UseC_-HR-Employee-Attrition.csv')\n",
+    "df.head()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c4ecf318",
+   "metadata": {},
+   "source": [
+    "## 🔹 Step 2: Explore the Data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bd539039",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Basic info\n",
+    "df.info()\n",
+    "\n",
+    "# Check for missing values\n",
+    "df.isnull().sum()\n",
+    "\n",
+    "# Attrition count\n",
+    "df['Attrition'].value_counts()\n",
+    "\n",
+    "\n",
+    "### Visualize Attrition by Job Role"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "73a10562",
+   "metadata": {},
+   "source": [
+    "## 🔹 Step 3: Analyze Key Patterns\n",
+    "\n",
+    "### Attrition by Age"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c5100e7e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "plt.figure(figsize=(8, 6))\n",
+    "sns.histplot(data=df, x='Age', hue='Attrition', multiple='stack')\n",
+    "plt.title(\"Attrition by Age\")\n",
+    "plt.show()\n",
+    "\n",
+    "\n",
+    "### Job Satisfaction vs Attrition"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8b6eb4b6",
+   "metadata": {},
+   "source": [
+    "## 🔹 Step 4: Data Preprocessing\n",
+    "\n",
+    "### Label Encode Attrition"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "10a063b1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from sklearn.preprocessing import LabelEncoder\n",
+    "\n",
+    "le = LabelEncoder()\n",
+    "df['Attrition'] = le.fit_transform(df['Attrition'])  # Yes=1, No=0\n",
+    "\n",
+    "\n",
+    "### Drop Irrelevant Columns"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fe96dd47",
+   "metadata": {},
+   "source": [
+    "## 🔹 Step 5: Train a Predictive Model"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ab3e59ca",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from sklearn.model_selection import train_test_split\n",
+    "from sklearn.linear_model import LogisticRegression\n",
+    "from sklearn.metrics import classification_report, confusion_matrix\n",
+    "\n",
+    "# Define features and target\n",
+    "X = df_encoded.drop('Attrition', axis=1)\n",
+    "y = df_encoded['Attrition']\n",
+    "\n",
+    "# Split data\n",
+    "X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)\n",
+    "\n",
+    "# Train logistic regression\n",
+    "model = LogisticRegression(max_iter=1000)\n",
+    "model.fit(X_train, y_train)\n",
+    "\n",
+    "# Make predictions\n",
+    "y_pred = model.predict(X_test)\n",
+    "\n",
+    "# Evaluation\n",
+    "print(confusion_matrix(y_test, y_pred))\n",
+    "print(classification_report(y_test, y_pred))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a32e0bf3",
+   "metadata": {},
+   "source": [
+    "## ✅ Next Steps (Optional)\n",
+    "\n",
+    "- Use a different model: RandomForest, XGBoost, etc.\n",
+    "- Build a dashboard in Power BI or Tableau\n",
+    "- Conduct feature importance analysis\n",
+    "- Share your results in a report or portfolio"
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
