@@ -5,12 +5,12 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
 
 
 ## Skills
-# Technical Skills
+* Technical Skills
 Programming Language: Javascript, SQL 
 
 Tools: Excel, Git
 
-# Soft Skills
+* Soft Skills
 Time Management
 
 Analytical and Critical Thinking
