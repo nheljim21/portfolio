@@ -7,3 +7,8 @@ Alternative Learning System
  Freelance Proofreader @Upwork(Online)
  
  Map Analyst @Peroptyx(Online)
+
+### Languages
+English(B2)
+
+German(A2)
