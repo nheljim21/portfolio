@@ -30,9 +30,10 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
 
 ## Experience
  Freelance Proofreader @Upwork, Online
- 
+ * Meticulously review written content to ensure it's error-free before publication or distribution. Focus on catching and correcting mistakes in grammar, spelling, punctuation, and formatting, making sure the final product is accurate, polished, and professional. 
  Map Analyst @Peroptyx, Online
-
+* Review and verify the accuracy of map data, including place names, addresses, business hours, and other relevant details.
+  
  ## Certification
  Data Science and Analytics
 
