@@ -15,3 +15,9 @@ German(A2)
 
 ### Skills
 Effective Time Management
+
+Self-Motivation and Discipline
+
+Analytical and Critical Thinking
+
+Problem-Solving
