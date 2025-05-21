@@ -10,4 +10,8 @@ Alternative Learning System
 
 ### Languages
 English(B2)
+
 German(A2)
+
+### Skills
+Effective Time Management
