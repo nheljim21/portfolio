@@ -1,15 +1,15 @@
 # Freelancer and Aspiring Data Analyst
 
-### About me
+## About me
 I’m a freelancer with a strong interest in data entry and analysis. I’m currently focused on building my skills in virtual and remote roles. My short-term goal is to gain expertise in any role suited to virtual work environments, and I’m always eager to learn, adapt, and improve.
 
 
-### Skills
-** TechnicaL Skills
+## Skills
+# TechnicaL Skills
 Programming Language: Javascript, SQL
-## Tools
-Excel, Git
-## Soft Skills
+Tools: Excel, Git
+
+# Soft Skills
 Time Management
 
 Analytical and Critical Thinking
@@ -19,7 +19,7 @@ Self-Motivation and Discipline
 Problem Solving
 
 
-### Languages
+## Languages
 English(B2)
 
 German(A2)
@@ -38,6 +38,7 @@ German(A2)
 
  ## Links
 edisnheljim21@gmail.com
+
 https://linktr.ee/nheljimedis
  
 
