@@ -22,6 +22,7 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
       Problem Solving
 
 * Languages
+
       English(B2)
 
       German(A2)
