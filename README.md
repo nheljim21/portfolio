@@ -23,7 +23,7 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
 
 * Languages
 
-      English(B2)
+      English(C1)
 
       German(A2)
 
