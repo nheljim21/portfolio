@@ -1,112 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Nheljim Mantawil Edis - Aspiring Professional | Remote</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
-    .container { max-width: 850px; margin: 40px auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);}
-    h1, h2 { text-align: center; }
-    .subtitle { text-align: center; color: #666; margin-top: -15px; margin-bottom: 20px;}
-    section { margin-bottom: 32px; }
-    ul { padding-left: 18px; }
-    .skills-section { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap;}
-    .skills-block { flex: 1; min-width: 220px;}
-    .projects, .certifications { margin-top: 10px;}
-    .contact-details { text-align: center; }
-    @media (max-width: 700px) {
-      .skills-section { flex-direction: column; }
-      .skills-block { min-width: unset; }
-    }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nheljim Edis - Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="container">
-    <h1>Nheljim Mantawil Edis</h1>
-    <div class="subtitle">Aspiring Professional | Remote</div>
-
-    <section>
+  <header>
+    <div class="container">
+      <h1>Nheljim Mantawil Edis</h1>
+      <p>Aspiring Professional | Remote</p>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <section id="about">
       <h2>About Me</h2>
       <p>
-       Aspiring professional with a strong work ethic, a positive attitude, and a willingness to learn. Eager to contribute, grow through hands-on experience, and build a successful career in virtual settings.
-        nvirtual settings.
+        Aspiring professional with a strong work ethic, a positive attitude, and a willingness to learn. Eager to contribute, grow through hands-on experience, and build a successful career in virtual settings.
       </p>
     </section>
-
-    <section>
-      <h2>Skills</h2>
-      <div class="skills-section">
-        <div class="skills-block">
-          <h3>Technical Skills</h3>
-          <strong>Programming Languages:</strong>
-          <ul>
-            <li>Python</li>
-            <li>JavaScript</li>
-            <li>SQL</li>
-            <li>C++</li>
-          </ul>
-          <strong>Tools:</strong>
-          <ul>
-            <li>Microsoft Office, Google Workspace
-            <li>Git &amp; GitHub</li>
-            <li>VS Code</li>
-            
-
-          </ul>
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="projects-list">
+        <div class="project-card">
+          <h3>Project One</h3>
+          <p>A modern landing page built with HTML & CSS.</p>
+          <a href="#" target="_blank">View Project</a>
         </div>
-        <div class="skills-block">
-          <h3>Soft Skills</h3>
-          <ul>
-            <li>Positive Attitude and Communication</li>
-            <li>Reliability & Self-Motivation</li>
-            <li>Critical Thinking and Problem-solving</li>
-            <li>Effective Time Managemet</li>
-            <li>Adaptability</li>
-            <li>Fast Learner</li>
-            <li>Attention to Detail</li>
-          </ul>
-          <h3>Language Skills</h3>
-          <ul>
-            <li>English (C1)</li>
-            <li>German (B1)</li>
-          </ul>
+        <div class="project-card">
+          <h3>Project Two</h3>
+          <p>Simple JavaScript calculator app.</p>
+          <a href="#" target="_blank">View Project</a>
+        </div>
+        <div class="project-card">
+          <h3>Project Three</h3>
+          <p>Personal blog powered by Markdown.</p>
+          <a href="#" target="_blank">View Project</a>
         </div>
       </div>
     </section>
-
-    <section>
-      <h2>Project</h2>
-      <div class="projects">
-        <ul>
-          <li>
-            <strong>Short Composition</strong> &mdash; Reflective Essay. <a href="#">[Link or GitHub]</a>
-          </li>
-         
-        </ul>
-      </div>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        Email: <a href="mailto:your.email@example.com">edisnheljim21@gmail.com</a><br/>
+        GitHub: <a href="https://github.com/yourusername" target="_blank">@nheljim21</a>
+      </p>
     </section>
-
-    <section>
-      <h2>Certification</h2>
-      <div class="certifications">
-        <ul>
-          <li>
-            <strong>Data Science and Analytics</strong> –  2025
-          </li>
-          
-        </ul>
-      </div>
-    </section>
-
-    <section>
-      <h2>Contact Details</h2>
-      <div class="contact-details">
-        Email: <a href="mailto:your@email.com">edisnheljim21@gmail.com</a><br>
-        GitHub: <a href="https://github.com/yourusername">https://github.com/nheljim21</a><br>
-        LinkedIn: <a href="https://linkedin.com/in/yourprofile">https://www.linkedin.com/in/nheljim-edis-42075721b/</a>
-      </div>
-    </section>
-  </div>
+  </main>
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </div>
+  </footer>
 </body>
 </html>
