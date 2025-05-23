@@ -6,7 +6,7 @@ body {
 }
 
 header, main, section {
-  text-align: center;
+  text-align: center; center
 }
 
 header {
