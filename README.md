@@ -1,7 +1,7 @@
-# Freelancer and Aspiring Virtual Assistant
+# Aspiring Professional | Remote
 
 ## About me
-I’m a freelancer with a strong interest in data entry and analysis. I’m currently focused on building my skills in virtual and remote roles. My short-term goal is to gain expertise in any role suited to virtual work environments, and I’m always eager to learn, adapt, and improve.
+I’m currently focused on building my skills in virtual and remote roles. My short-term goal is to gain expertise in any role suited to virtual work environments, and I’m always eager to learn, adapt, and improve.
 
 
 ## Skills
@@ -9,32 +9,32 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
 
       Programming Language: Javascript, SQL 
 
-      Tools: Excel, Git
+      Tools: Excel, Git, GitHub, VS Code
 
 * Soft Skills
 
-      Time Management
+      Time Management, Realibility, Self-Motivation and Discipline
 
-      Analytical and Critical Thinking
+      Problem Solving, Analytical and Critical Thinking
 
-      Self-Motivation and Discipline
-
-      Problem Solving
-
+      Positive Attitude, Adaptability and Communication
+      
+      Fast Learner and Attention to Detail
+      
 * Languages
 
       English(C1)
 
-      German(A2)
+      German(B1)
 
-## Projects
+## Project
 
 Title: "Dealing With the Unexpected" 
 
 Type: Short Composition – Reflective 
 Essay 
 
-Created With: Microsoft Word, Doc 
+Created With: Microsoft Word, Google Doc 
 
 Date: May 2025 
 
@@ -43,7 +43,7 @@ This reflective piece explores how unexpected events shape our lives and
 decisions. It encourages awareness, responsibility, and mindfulness when 
 facing uncertainty. Written as a personal insight project. 
 
-[Project Title Dealing With the Unexpected.pdf](https://github.com/user-attachments/files/20404707/Project.Title.Dealing.With.the.Unexpected.pdf)
+[Dealing With the Unexpected.pdf](https://github.com/user-attachments/files/20408000/Dealing.With.the.Unexpected.pdf)
 
 
 
@@ -58,7 +58,6 @@ facing uncertainty. Written as a personal insight project.
  Data Science and Analytics
 
  ## Resume
-[CV NHELJIM.pdf](https://github.com/user-attachments/files/20371225/CV.NHELJIM.pdf)
 
  ## Links
 edisnheljim21@gmail.com
