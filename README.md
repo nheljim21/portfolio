@@ -41,7 +41,10 @@ Date: May 2025
 About the Project: 
 This reflective piece explores how unexpected events shape our lives and 
 decisions. It encourages awareness, responsibility, and mindfulness when 
-facing uncertainty. Written as a personal insight project.
+facing uncertainty. Written as a personal insight project. 
+
+[Project Title Dealing With the Unexpected.pdf](https://github.com/user-attachments/files/20404707/Project.Title.Dealing.With.the.Unexpected.pdf)
+
 
 
 ## Experience
