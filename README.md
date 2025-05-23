@@ -1,4 +1,4 @@
-# Freelancer and Aspiring Data Analyst
+# Freelancer and Aspiring Virtual Assistant
 
 ## About me
 I’m a freelancer with a strong interest in data entry and analysis. I’m currently focused on building my skills in virtual and remote roles. My short-term goal is to gain expertise in any role suited to virtual work environments, and I’m always eager to learn, adapt, and improve.
@@ -26,6 +26,18 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
       English(C1)
 
       German(A2)
+
+## Projects
+
+Title: "Dealing With the Unexpected" 
+Type: Short Composition – Reflective 
+Essay 
+Created With: Microsoft Word, Doc 
+Date: May 2025 
+About the Project: 
+This reflective piece explores how unexpected events shape our lives and 
+decisions. It encourages awareness, responsibility, and mindfulness when 
+facing uncertainty. Written as a personal insight project.
 
 
 ## Experience
