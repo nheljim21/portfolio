@@ -30,10 +30,14 @@ I’m a freelancer with a strong interest in data entry and analysis. I’m curr
 ## Projects
 
 Title: "Dealing With the Unexpected" 
+
 Type: Short Composition – Reflective 
 Essay 
+
 Created With: Microsoft Word, Doc 
+
 Date: May 2025 
+
 About the Project: 
 This reflective piece explores how unexpected events shape our lives and 
 decisions. It encourages awareness, responsibility, and mindfulness when 
