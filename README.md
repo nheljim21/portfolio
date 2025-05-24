@@ -7,18 +7,18 @@ I’m currently focused on building my skills in virtual and remote roles. My sh
 ## Skills
 * Technical Skills
 
-      Programming Language: Javascript, SQL 
-
-      Tools: Excel, Git, GitHub, VS Code
+      Tools: Microsoft, GitHub
 
 * Soft Skills
 
-      Time Management, Realibility, Self-Motivation and Discipline
+      Time Management and Self-Motivation
 
-      Problem Solving, Analytical and Critical Thinking
+      Analytical and Critical Thinking
 
-      Positive Attitude, Adaptability and Communication
-      
+      Positive Attitude and Communication
+
+      Flexibility and Adaptability
+
       Fast Learner and Attention to Detail
       
 * Languages
@@ -58,6 +58,7 @@ facing uncertainty. Written as a personal insight project.
  Data Science and Analytics
 
  ## Resume
+ [CV Nheljim Edis.pdf](https://github.com/user-attachments/files/20422241/CV.Nheljim.Edis.pdf)
 
  ## Links
 edisnheljim21@gmail.com
