@@ -43,7 +43,7 @@ This reflective piece explores how unexpected events shape our lives and
 decisions. It encourages awareness, responsibility, and mindfulness when 
 facing uncertainty. Written as a personal insight project. 
 
-[Dealing With the Unexpected.pdf](https://github.com/user-attachments/files/20408000/Dealing.With.the.Unexpected.pdf)
+[View PDF](https://github.com/user-attachments/files/20408000/Dealing.With.the.Unexpected.pdf)
 
 
 
