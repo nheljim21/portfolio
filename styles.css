@@ -114,4 +114,16 @@ footer {
   .projects .project-list {
     flex-direction: column;
   }
+
+}
+.social-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.social-links a {
+  color: #333;
+  font-size: 1.5em;
+}
+.social-links a:hover {
+  color: #0073b1; /* LinkedIn blue, for example */
 }
