@@ -1,1 +1,170 @@
-
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #222;
+  background: #f8f9fa;
+}
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 0;
+}
+header {
+  background: #fff;
+  border-bottom: 1px solid #eee;
+}
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #3a86ff;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 24px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+}
+nav ul li a:hover {
+  color: #3a86ff;
+}
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hero {
+  background: #e7f0fd;
+  padding: 60px 0;
+}
+.hero .container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 40px;
+}
+.hero-text {
+  max-width: 500px;
+}
+.hero-text h1 {
+  font-size: 2.5rem;
+  margin: 0 0 16px 0;
+}
+.hero-text p {
+  font-size: 1.25rem;
+  margin-bottom: 24px;
+}
+.cta-btn {
+  display: inline-block;
+  background: #3a86ff;
+  color: #fff;
+  padding: 14px 32px;
+  border-radius: 32px;
+  font-size: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+.cta-btn:hover {
+  background: #265daf;
+}
+.hero-image img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.05);
+}
+.features {
+  background: #fff;
+  padding: 60px 0;
+}
+.features-list {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 32px;
+}
+.feature {
+  background: #f1f5fb;
+  border-radius: 8px;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.03);
+  padding: 32px 24px;
+  flex: 1 1 220px;
+  min-width: 220px;
+  max-width: 320px;
+  text-align: center;
+}
+.icon {
+  font-size: 2.5rem;
+  margin-bottom: 16px;
+}
+.about, .testimonials {
+  padding: 60px 0;
+}
+.about p {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  color: #333;
+}
+.testimonials-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-top: 32px;
+  justify-content: center;
+}
+.testimonials-list blockquote {
+  background: #fff;
+  border-left: 6px solid #3a86ff;
+  border-radius: 6px;
+  padding: 24px 32px;
+  font-style: italic;
+  max-width: 350px;
+  min-width: 220px;
+  margin: 0;
+  color: #444;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.03);
+}
+.testimonials-list span {
+  display: block;
+  margin-top: 12px;
+  font-size: 0.95rem;
+  color: #888;
+  font-style: normal;
+}
+footer {
+  background: #3a86ff;
+  color: #fff;
+  padding: 48px 0 24px 0;
+  text-align: center;
+}
+footer .cta-btn {
+  background: #fff;
+  color: #3a86ff;
+  margin-bottom: 20px;
+}
+footer .cta-btn:hover {
+  background: #e7f0fd;
+}
+footer p {
+  margin-top: 16px;
+  font-size: 1rem;
+}
+@media (max-width: 800px) {
+  .hero .container,
+  .features-list,
+  .testimonials-list {
+    flex-direction: column;
+    align-items: center;
+  }
+  .features-list, .testimonials-list {
+    gap: 20px;
+  }
+}
