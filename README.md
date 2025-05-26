@@ -1,5 +1,9 @@
 # Aspiring Professional | Remote
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 ## About me
 I’m currently focused on building my skills in virtual and remote roles. My short-term goal is to gain expertise in any role suited to virtual work environments, and I’m always eager to learn, adapt, and improve.
 
