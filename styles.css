@@ -87,7 +87,7 @@ nav a:hover {
 
 .contact a {
   color: #2d3142;
-  text-decoration: 
+  text-decoration: underline;
 }
 .contact a:hover {
   color: #ef8354;
