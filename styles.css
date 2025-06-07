@@ -163,3 +163,10 @@ footer {
 .contact-icons a.instagram:hover { color: #e4405f; }
 .contact-icons a.github:hover { color: #000; }
 .contact-icons a.phone:hover { color: #28a745; }
+
+#projects h2 {
+  text-align: center;
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  color: #222;
+}
