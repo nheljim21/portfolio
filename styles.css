@@ -130,7 +130,7 @@ footer {
 #contact {
   padding: 60px 20px;
   text-align: center;
-  background: #fff;
+  background-color: #fff;
 }
 
 #contact h2 {
@@ -141,9 +141,9 @@ footer {
 .contact-icons {
   display: flex;
   justify-content: center;
-  gap: 2rem;
   flex-wrap: wrap;
-  margin-top: 1rem;
+  gap: 2rem; /* 💡 This adds space between the icons */
+  margin-top: 1.5rem;
 }
 
 .contact-icons a {
@@ -157,6 +157,7 @@ footer {
   transform: scale(1.2);
 }
 
+/* Optional colors on hover */
 .contact-icons a.email:hover { color: #d44638; }
 .contact-icons a.facebook:hover { color: #1877f2; }
 .contact-icons a.instagram:hover { color: #e4405f; }
