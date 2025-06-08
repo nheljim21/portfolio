@@ -1,73 +1,44 @@
-# Aspiring Professional | Remote
+# Nheljim Mantawil Edis | Projects
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## About me
-I’m currently focused on building my skills in virtual and remote roles. My short-term goal is to gain expertise in any role suited to virtual work environments, and I’m always eager to learn, adapt, and improve.
+I'm currently building small projects to sharpen my skills and gained real-world experience. My goal is to grow into a role where I can build useful, creative, and user-friendly solutions. I’m always eager to learn, adapt, and improve.
 
 
 ## Skills
-* Technical Skills
+*Technical Skills*
 
-      Tools: Microsoft, GitHub
+      Tools: GitHub, Replit, Vercel
+      Programming Languages: HTML, CSS, JavaScript, Python
+      Other Proficiency: Microsoft, Canva, Figma, Google Sites/Apps
+      In Progress: VS Code,  Chrome Devtools, etc.
 
-* Soft Skills
+*Soft Skills*
+      *(Available in Resume)*
 
-      Time Management and Self-Motivation
 
-      Analytical and Critical Thinking
+## Projects
 
-      Positive Attitude and Communication
+###1. Moon Landing Page###
+Description: A visually engaging landing page about the Moon, built with *HTML* and *CSS*.
 
-      Flexibility and Adaptability
+###Key Features:###
 
-      Fast Learner and Attention to Detail
-      
-* Languages
+* Animated stars and floating moon crafted purely with CSS.
 
-      English(C1)
+* Responsive, modern layout for all devices.
 
-      German(B1)
+* Educational Moon facts section.
 
-## Project
-
-Title: "Dealing With the Unexpected" 
-
-Type: Short Composition – Reflective 
-Essay 
-
-Created With: Microsoft Word, Google Doc 
-
-Date: May 2025 
-
-About the Project: 
-This reflective piece explores how unexpected events shape our lives and 
-decisions. It encourages awareness, responsibility, and mindfulness when 
-facing uncertainty. Written as a personal insight project. 
-
-[View PDF](https://github.com/user-attachments/files/20408000/Dealing.With.the.Unexpected.pdf)
+Tech Stack: **HTML5**, **CSS3**
 
 
 
-## Experience
- Freelance Proofreader @Upwork, Online
- * Meticulously review written content to ensure it's error-free before publication or distribution. Focus on catching and correcting mistakes in grammar, spelling, punctuation, and formatting, making sure the final product is accurate, polished, and professional. 
- 
- Map Analyst @Peroptyx, Online
-* Review and verify the accuracy of map data, including place names, addresses, business hours, and other relevant details.
-  
- ## Certification
- Data Science and Analytics
 
- ## Resume
- [CV Nheljim Edis.pdf](https://github.com/user-attachments/files/20422241/CV.Nheljim.Edis.pdf)
 
- ## Links
-edisnheljim21@gmail.com
-
-https://linktr.ee/nheljimedis
  
 
 
