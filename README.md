@@ -22,18 +22,18 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
 ## Projects
 
-###1. Moon Landing Page###
-Description: A visually engaging landing page about the Moon, built with *HTML* and *CSS*.
+### 1. Moon Landing Page
+A visually engaging landing page about the Moon, built with *HTML* and *CSS*.
 
-###Key Features:###
+### Key Features:
 
-* Animated stars and floating moon crafted purely with CSS.
+* Animated stars and floating moon crafted purely with *CSS*.
 
 * Responsive, modern layout for all devices.
 
 * Educational Moon facts section.
 
-Tech Stack: **HTML5**, **CSS3**
+### Tech Stack: **HTML5**, **CSS3**
 
 
 
