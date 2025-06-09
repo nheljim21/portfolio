@@ -110,10 +110,10 @@ I'm currently building small projects to sharpen my skills and gained real-world
 ## 📫 Contacts
  Feel free to reach out for feedback or just to connect!
 
- ### Email: 
- ### Facebook:
- ### Instagram:
- ### GitHub: 
+ ### Email: edisnheljim21@gmail.com
+ ### Facebook: https://www.facebook.com/edisnheljim621
+ ### Instagram: https://www.instagram.com/nheljim_/
+ ### GitHub: https://github.com/nheljim21
 
 
 
