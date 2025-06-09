@@ -9,11 +9,6 @@
 ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-FF7600?style=flat&logo=OpenWeatherMap&logoColor=white)
 
 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
 ## About me
 I'm currently building small projects to sharpen my skills and gained real-world experience. My goal is to grow into a role where I can build useful, creative, and user-friendly solutions. I’m always eager to learn, adapt, and improve.
 
@@ -107,6 +102,15 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
 
 ## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/FF7600/weather.png" width="30"/>
+</p>
+
   
   ### Tool: GitHub
   ### Languages: HTML5, CSS3, JavaScript (ES6+)
