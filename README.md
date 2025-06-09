@@ -92,12 +92,12 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
  ### Tech Stack: HTML5, CSS3, JavaScript (ES6+)
 
- ### View Demo | View Code
+ #### View Demo | View Code
 
 
 
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
   
   ### Languages: HTML5, CSS3, JavaScript (ES6+)
   ### Tools: GitHub
@@ -107,7 +107,7 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
 
 
-### Contacts
+## 📫 Contacts
  Feel free to reach out for feedback or just to connect!
 
  ### Email: 
@@ -115,4 +115,4 @@ I'm currently building small projects to sharpen my skills and gained real-world
  ### Instagram:
  ### GitHub: 
 
-### THANK YOU FOR VISITING MY GITHUB PROJECTS!
+## THANK YOU FOR VISITING MY GITHUB PROJECTS!
