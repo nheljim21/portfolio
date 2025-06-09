@@ -11,7 +11,6 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
 ## Skills
 *Technical Skills*
-
       Tools: GitHub, Replit, Vercel
       Programming Languages: HTML, CSS, JavaScript, Python
       Other Proficiency: Microsoft, Canva, Figma, Google Sites/Apps
@@ -24,10 +23,9 @@ I'm currently building small projects to sharpen my skills and gained real-world
 ## Projects
 
 ### 1. Moon Landing Page
- 
  A visually engaging landing page about the Moon, built with *HTML* and *CSS*.
 
-   ### Key Features:
+ ### Key Features:
 
      * Animated stars and floating moon crafted purely with *CSS*.
 
@@ -35,19 +33,20 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
      * Educational Moon facts section.
 
-   ### Tech Stack: **HTML5**, **CSS3**
+ ### Tech Stack: HTML5, CSS3
 
-   ### Demo: 
+ ### Demo: View Project
 
 
 ### 2. Basic Calculator
  A clean, responsive web calculator built for quick everyday math.
 
-### Key Features:
+ ### Key Features:
 
-  *Simple and intuitive user interface.
+   * Simple and intuitive user interface.
 
-  *Responsive design suitable for all screen sizes.
+   * Responsive design suitable for all screen sizes.
  
+ ### Tech Stack: HTML5, CSS3, JavaScript
 
-
+ ### Demo: Try Demo | View Code
