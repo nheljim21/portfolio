@@ -102,15 +102,6 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
 
 ## 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/FF7600/weather.png" width="30"/>
-</p>
-
   
   ### Tool: GitHub
   ### Languages: HTML5, CSS3, JavaScript (ES6+)
