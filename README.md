@@ -1,3 +1,4 @@
+
 # Nheljim Mantawil Edis | Projects
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -23,22 +24,30 @@ I'm currently building small projects to sharpen my skills and gained real-world
 ## Projects
 
 ### 1. Moon Landing Page
-A visually engaging landing page about the Moon, built with *HTML* and *CSS*.
+ 
+ A visually engaging landing page about the Moon, built with *HTML* and *CSS*.
+
+   ### Key Features:
+
+     * Animated stars and floating moon crafted purely with *CSS*.
+
+     * Responsive, modern layout for all devices.
+
+     * Educational Moon facts section.
+
+   ### Tech Stack: **HTML5**, **CSS3**
+
+   ### Demo: 
+
+
+### 2. Basic Calculator
+ A clean, responsive web calculator built for quick everyday math.
 
 ### Key Features:
 
-* Animated stars and floating moon crafted purely with *CSS*.
+  *Simple and intuitive user interface.
 
-* Responsive, modern layout for all devices.
-
-* Educational Moon facts section.
-
-### Tech Stack: **HTML5**, **CSS3**
-
-
-
-
-
+  *Responsive design suitable for all screen sizes.
  
 
 
