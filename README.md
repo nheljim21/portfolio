@@ -27,11 +27,11 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
  ### Key Features:
 
-     * Animated stars and floating moon crafted purely with *CSS*.
+   * Animated stars and floating moon crafted purely with *CSS*.
 
-     * Responsive, modern layout for all devices.
+   * Responsive, modern layout for all devices.
 
-     * Educational Moon facts section.
+   * Educational Moon facts section.
 
  ### Tech Stack: HTML5, CSS3
 
