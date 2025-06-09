@@ -95,14 +95,24 @@ I'm currently building small projects to sharpen my skills and gained real-world
  ### View Demo | View Code
 
 
+
+
 ### 🛠️ Technologies & Tools
+  
   ### Languages: HTML5, CSS3, JavaScript (ES6+)
-  ### Tools: Github
+  ### Tools: GitHub
   ### APIs: OpenWeatherApp
+
+
+
 
 
 ### Contacts
  Feel free to reach out for feedback or just to connect!
 
+ ### Email: 
+ ### Facebook:
+ ### Instagram:
+ ### GitHub: 
 
 ### THANK YOU FOR VISITING MY GITHUB PROJECTS!
