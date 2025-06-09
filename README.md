@@ -11,6 +11,7 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
 ## Skills
 *Technical Skills*
+      
       Tools: GitHub, Replit, Vercel
       Programming Languages: HTML, CSS, JavaScript, Python
       Other Proficiency: Microsoft, Canva, Figma, Google Sites/Apps
@@ -20,7 +21,7 @@ I'm currently building small projects to sharpen my skills and gained real-world
       *(Available in Resume)*
 
 
-## Projects
+## 🚀 Projects
 
 ### 1. Moon Landing Page
  A visually engaging landing page about the Moon, built with *HTML* and *CSS*.
@@ -35,7 +36,7 @@ I'm currently building small projects to sharpen my skills and gained real-world
 
  ### Tech Stack: HTML5, CSS3
 
- ### Demo: View Project
+ ### View Project
 
 
 ### 2. Basic Calculator
@@ -49,4 +50,59 @@ I'm currently building small projects to sharpen my skills and gained real-world
  
  ### Tech Stack: HTML5, CSS3, JavaScript
 
- ### Demo: Try Demo | View Code
+ ### Try Demo | View Code
+
+
+### 3. Weather App
+ A sleek and user-friendly web application that lets you instantly check the real-time weather for any city worldwide.
+
+ ### Key Features:
+
+   * Displays current weather conditions, temperature, and forecasts.
+
+   * Utilizes the OpenWeatherMap API for real-time data.
+
+ ### Tech Stack: HTML5, CSS3, JavaScript (ES6+), OpenWeatherMap API
+
+ ### View Demo | View Code
+
+
+### 4. Random Quote Generator
+ A minimalist web app that displays a random inspirational quote at the click of a button.
+
+ ### Key Features:
+
+   * Displays a new quote with each click.
+
+   * Responsive design for various devices.
+
+ ### Tech Stack: HTML5, CSS3, JavaScript (ES6+)
+
+ ### View Demo | View Code
+
+ 
+### 5. INSERT COIN Tracker
+ A simple task-tracking web app where you "spend" coins each day to log effort, productivity, or habits.
+
+ ### Key Features:
+
+   * Daily coin logging with editable entries.
+
+   * Calculates running total and average.
+
+ ### Tech Stack: HTML5, CSS3, JavaScript (ES6+)
+
+ ### View Demo | View Code
+
+
+### 🛠️ Technologies & Tools
+  ### Languages: HTML5, CSS3, JavaScript (ES6+)
+  ### Tools: Github
+  ### APIs: OpenWeatherApp
+
+
+### Contacts
+ Feel free to reach out for feedback or just to connect!
+
+
+### THANK YOU FOR VISITING MY GITHUB PROJECTS!
