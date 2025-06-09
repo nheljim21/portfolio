@@ -1,6 +1,17 @@
 
 # Nheljim Mantawil Edis | Projects
 
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ES6+](https://img.shields.io/badge/ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Modern JS](https://img.shields.io/badge/Modern_JS-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-FF7600?style=for-the-badge&logo=OpenWeatherMap&logoColor=white)
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -101,7 +112,7 @@ I'm currently building small projects to sharpen my skills and gained real-world
   
   ### Languages: HTML5, CSS3, JavaScript (ES6+)
   ### Tools: GitHub
-  ### APIs: OpenWeatherApp
+  ### APIs: OpenWeatherMap API
 
 
 
